@@ -1,5 +1,5 @@
 header {
-    background-color: #F7E7CE;
+    background-color: #9F624F;
     font-size: xx-large;
     color: white;
     margin-top: 15px;
@@ -19,10 +19,11 @@ main {
 }
 
 body {
-    background-color: #9F624F;
+    background-color: #F7E7CE;
     text-align: center;
 }
 
 footer {
     background-color: #59372B;
+    color: #F7E7CE;
 }
