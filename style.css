@@ -1,9 +1,19 @@
+#container {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 header {
     background-color: #9F624F;
     font-size: xx-large;
     color: white;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+
+h1 {
+    margin: 0%;
 }
 
 nav {
@@ -12,6 +22,10 @@ nav {
     justify-content: space-around;
     background-color: #CCA98D;
     font-weight: bold;
+    font-size: large;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-variant: small-caps;
+    letter-spacing: 2px;
 }
 
 main {
@@ -21,6 +35,11 @@ main {
 body {
     background-color: #F7E7CE;
     text-align: center;
+}
+
+img {
+margin-left: 3%;
+margin-right: 3%;
 }
 
 footer {
