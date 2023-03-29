@@ -1,5 +1,5 @@
 header {
-    background-color: bisque;
+    background-color: #F7E7CE;
     font-size: xx-large;
     color: white;
     margin-top: 15px;
@@ -9,16 +9,20 @@ header {
 nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    margin-left: 20%;
-    margin-right: 20%;
+    justify-content: space-around;
+    background-color: #CCA98D;
+    font-weight: bold;
+}
+
+main {
+    background-color: #AE9E8F;
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: #9F624F;
     text-align: center;
 }
 
 footer {
-    background-color: cadetblue;
+    background-color: #59372B;
 }
